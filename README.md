@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodexShinobi
-- 👀 I’m a 2nd year student at Chandigarh University
+- 👀 I’m a 4th year student at Chandigarh University
 - 📫 I'm passionate about making a positive impact
 - 🌱 I'm constantly learning and exploring new technologies, especially Web Development.
 - ## 🙏 Thanks for Visiting
